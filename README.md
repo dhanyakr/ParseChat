@@ -9,7 +9,9 @@ Completed:
 * [] Required: 
 
 ![Video Walkthrough](parseChatDemo.gif)
+
 ![Video Walkthrough](parseChatDemo1.gif)
+
 ![Video Walkthrough](parseChatDemo2.gif)
 
 
