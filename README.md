@@ -8,7 +8,9 @@ Completed:
 
 * [] Required: 
 
-![Video Walkthrough](parseChatDemo.gif, parseChatDemo1.gif, parseChatDemo2.gif)
+![Video Walkthrough](parseChatDemo.gif)
+![Video Walkthrough](parseChatDemo1.gif)
+![Video Walkthrough](parseChatDemo2.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
